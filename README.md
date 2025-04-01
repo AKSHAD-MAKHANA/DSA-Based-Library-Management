@@ -39,7 +39,7 @@ This is a simple **Library Management System** built using C++ as part of my **D
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/AKSHAD-MAKHANA/DSA-Based-Library-Management.git
    ```
 2. Navigate to the project directory:
    ```sh
